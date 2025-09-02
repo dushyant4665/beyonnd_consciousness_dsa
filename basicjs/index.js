@@ -39,8 +39,3 @@ for(i=0; i < student.length; i++){
 
 const av = 1000;
 
-// console.log(Math.ceil(av/9));
-
-
-// Math.floor decimal value ko lower value me convert krta hai
-// Math.ceil decimal value ko upper value me convert krta hai
