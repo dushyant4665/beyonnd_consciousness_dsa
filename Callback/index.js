@@ -1,15 +1,4 @@
-function study(studing, studied, callback){
-    //  console.log(studing,'studing')
-    //  console.log(studied,'studied');
-     callback()
-     
-}
 
-function sleeping(){
-    // console.log('sleeping');
-}
-
-study('dushyant','dushyant studied', sleeping);
 
 // callback hell 
 
@@ -24,4 +13,5 @@ setTimeout(() => {
             },2000 );
         },2000);
     },2000)
+
 },2000)
